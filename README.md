@@ -3,7 +3,7 @@
 
 ## Built With
 
-* [brain.js](https://github.com/BrainJS/brain.js) - Javascript Library
+* [brain.js](https://github.com/BrainJS/brain.js) - library of Neural Networks written in JavaScript.
 
 ````
 Require: nodeJS
