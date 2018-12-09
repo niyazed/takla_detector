@@ -7,5 +7,6 @@
 
 ````
 Require: nodeJS
-USAGE: node index
+- npm install brain
+- node index
 ````
